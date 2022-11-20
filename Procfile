@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit diabetes_desktop.ipynb
+web: sh setup.sh && streamlit diabetes_desktop.py
